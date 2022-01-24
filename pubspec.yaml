@@ -1,0 +1,47 @@
+name: payment_screen
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  cupertino_icons: ^1.0.2
+  paystack_manager: ^1.0.4
+  animated_splash_screen: ^1.1.0
+  carousel_slider: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/newLLL.png
+    - assets/amazon.jpeg
+    - assets/apple.png
+    - assets/jumia.jpeg
+    - assets/netflix.png
+    - assets/spotify.png
+    - assets/uber.png
+    - assets/newwl.png
+    - assets/new.png
+    - assets/newll.png
+    - assets/newl.png
+    - assets/picc1.jpg
+    - assets/picc2.jpg
+    - assets/picc3.jpg
+    - assets/picc4.jpg
+
